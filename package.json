@@ -1,0 +1,22 @@
+{
+  "name": "portfolio-website-with-sass-project",
+  "version": "1.0.0",
+  "description": "Portfolio Website With SASS",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass -w scss/ -o dist/css/ --recursive"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexDanicic/Portfolio-Website-With-SASS-Project.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlexDanicic/Portfolio-Website-With-SASS-Project/issues"
+  },
+  "homepage": "https://github.com/AlexDanicic/Portfolio-Website-With-SASS-Project#readme",
+  "devDependencies": {
+    "node-sass": "^4.13.1"
+  }
+}
